@@ -1,0 +1,47 @@
+# Python virtual environment
+myvenv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# dotenv
+.env
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pipenv
+Pipfile.lock
+
+# Byte-compiled
+*.pyc
+
+# Logs
+*.log
+
+# Secrets
+secrets.yml
+
+# JetBrains
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
